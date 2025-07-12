@@ -1,6 +1,4 @@
-git add .idea/misc.xml
-git add .idea/vcs.xml
-git add ResumeSummariser.iml
+
 # Resume_Summarizer
 A mobile-friendly resume summarization app using BART (facebook/bart-large-cnn) with Flutter frontend and Flask backend. Upload a PDF resume and get a clean summary of key details like skills, projects, and experience.
 
